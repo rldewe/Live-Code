@@ -1,8 +1,8 @@
 
 
-# Real-Time Collaborative Coding App
+# Live Code
 
-Welcome to the Real-Time Collaborative Coding App! This application allows users to collaborate on code in real-time, featuring live code editing and instant updates.
+Welcome to the Live Code - A Real-Time Collaborative Coding App! This application allows users to collaborate on code in real-time, featuring live code editing and instant updates.
 
 ## Demo
 
